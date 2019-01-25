@@ -6,7 +6,22 @@
 	url = https://github.com/tpope/vim-sensible.git
 [submodule ".vim/pack/prabirshrestha/start/vim-lsp"]
 	path = .vim/pack/prabirshrestha/start/vim-lsp
-	url = git@github.com:prabirshrestha/vim-lsp.git
+	url = https://github.com/prabirshrestha/vim-lsp.git
 [submodule ".vim/pack/prabirshrestha/start/async.vim"]
 	path = .vim/pack/prabirshrestha/start/async.vim
-	url = git@github.com:prabirshrestha/async.vim.git
+	url = https://github.com/prabirshrestha/async.vim.git
+[submodule ".vim/pack/ryanolsonx/start/vim-lsp-typescript.vim"]
+	path = .vim/pack/ryanolsonx/start/vim-lsp-typescript.vim
+	url = https://github.com/ryanolsonx/vim-lsp-typescript.git
+[submodule ".vim/pack/prabirshrestha/start/asyncomplete.vim"]
+	path = .vim/pack/prabirshrestha/start/asyncomplete.vim
+	url = https://github.com/prabirshrestha/asyncomplete.vim.git
+[submodule ".vim/pack/tpope/start/vim-sleuth"]
+	path = .vim/pack/tpope/start/vim-sleuth
+	url = https://github.com/tpope/vim-sleuth.git
+[submodule ".vim/pack/leafgarland/start/typescript-vim"]
+	path = .vim/pack/leafgarland/start/typescript-vim
+	url = https://github.com/leafgarland/typescript-vim.git
+[submodule ".vim/pack/prabirshrestha/start/asyncomplete-lsp.vim"]
+	path = .vim/pack/prabirshrestha/start/asyncomplete-lsp.vim
+	url = https://github.com/prabirshrestha/asyncomplete-lsp.vim.git
