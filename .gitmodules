@@ -1,0 +1,12 @@
+[submodule ".vim/pack/tpope/start/vim-surround"]
+	path = .vim/pack/tpope/start/vim-surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule ".vim/pack/tpope/start/vim-sensible"]
+	path = .vim/pack/tpope/start/vim-sensible
+	url = https://github.com/tpope/vim-sensible.git
+[submodule ".vim/pack/prabirshrestha/start/vim-lsp"]
+	path = .vim/pack/prabirshrestha/start/vim-lsp
+	url = git@github.com:prabirshrestha/vim-lsp.git
+[submodule ".vim/pack/prabirshrestha/start/async.vim"]
+	path = .vim/pack/prabirshrestha/start/async.vim
+	url = git@github.com:prabirshrestha/async.vim.git
